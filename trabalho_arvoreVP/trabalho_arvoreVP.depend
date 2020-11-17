@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1605623873 source:c:\users\larissa\documents\estrutura_de dados_ii\trabalho_arvorevp\main.cpp
+	<iostream>
+	"AVP.h"
+
+1605617943 source:c:\users\larissa\documents\estrutura_de dados_ii\trabalho_arvorevp\novp.cpp
+	"noVp.h"
+
+1605617943 c:\users\larissa\documents\estrutura_de dados_ii\trabalho_arvorevp\novp.h
+
+1605624724 source:c:\users\larissa\documents\estrutura_de dados_ii\trabalho_arvorevp\avp.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<cstdlib>
+	<cassert>
+	"AVP.h"
+
+1605623821 c:\users\larissa\documents\estrutura_de dados_ii\trabalho_arvorevp\avp.h
+	"noVp.h"
+
